@@ -447,6 +447,9 @@
     margin-left:120px;
     background-image: url(./images/projects/prject4.png);
   }
+  #project5{
+    background-image: url(./images/projects/Project5.png);
+  }
 
   @media (max-width:1300px) {
     .page-header {
@@ -532,8 +535,8 @@
   font-style:bold;
   color:rgb(231,231,231);
   bottom:-34.5%;
-  right:-25%;
-  user-select:none;
+  right:-14%;
+  /* user-select:none; */
   overflow-y:hidden;
 }
 
